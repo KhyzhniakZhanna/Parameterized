@@ -1,13 +1,11 @@
 package data;
 
-public enum Language {
-    UA ("uk-ua"),
-    RU ("ru-ua");
-
-
+public enum Language2 {
+    ES ("es"),
+    DE ("de");
     String lang;
 
-    Language(String lang) {
+    Language2(String lang) {
         this.lang = lang;
     }
 
@@ -15,3 +13,4 @@ public enum Language {
         return lang;
     }
 }
+

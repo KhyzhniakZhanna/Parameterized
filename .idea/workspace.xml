@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="964bc158-458a-457d-99ff-c21881b0a955" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/conf/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/conf/ConfigurationWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/conf/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/conf/Webdrivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/Localozation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/hoteltabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/htabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/mainPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/de.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/es.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bundletest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hillleltest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/intertoptest.java" afterDir="false" />
+    <list default="true" id="964bc158-458a-457d-99ff-c21881b0a955" name="Changes" comment="paramtrized_homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/Language2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bundletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bundletest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -81,17 +62,7 @@
       <recent name="data" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.intertoptest.test_title">
-    <configuration name="bundletest.testTab1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Parametrized" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="bundletest" />
-      <option name="METHOD_NAME" value="testTab1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.intertoptest.test_desc">
     <configuration name="bundletest.testTab2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Parametrized" />
       <option name="PACKAGE_NAME" value="" />
@@ -122,6 +93,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="intertoptest.test_desc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parametrized" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="intertoptest" />
+      <option name="METHOD_NAME" value="test_desc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="intertoptest.test_title" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Parametrized" />
       <option name="PACKAGE_NAME" value="" />
@@ -134,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.intertoptest.test_desc" />
         <item itemvalue="JUnit.intertoptest.test_title" />
         <item itemvalue="JUnit.hillleltest.test_locale" />
         <item itemvalue="JUnit.bundletest.testTab3" />
         <item itemvalue="JUnit.bundletest.testTab2" />
-        <item itemvalue="JUnit.bundletest.testTab1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +132,43 @@
       <option name="presentableId" value="Default" />
       <updated>1692631616794</updated>
     </task>
+    <task id="LOCAL-00001" summary="paramtrized_homework">
+      <created>1693420574776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693420574776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="paramtrized_homework">
+      <created>1693420752396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693420752396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="paramtrized_homework">
+      <created>1693420794934</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693420794934</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="paramtrized_homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="paramtrized_homework" />
   </component>
 </project>
